@@ -1,15 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Flexible Gatsby`,
-    description: `I am a web developer focusing on front-end development. Always hungry to keep learning.`,
-    author: `David Freeman`,
+    title: `Fangzheng Ji's Blog`,
+    description: `I am computer science master student study in Germany. Always hungry to keep learning.`,
+    author: `Fangzheng Ji`,
     siteUrl: `https://github.com/wangonya/flexible-gatsby`,
     social: {
-      twitter: `wang0nya`,
-      facebook: ``,
-      github: `wangonya`,
-      linkedin: `wangonya`,
-      email: `kwangonya@gmail.com`,
+      twitter: `francisjigo2`,
+      github: `francisjigo2`,
+      linkedin: `fangzheng-ji-8a7519112`,
+      email: `francisji@outlook.com`,
     },
   },
   plugins: [
@@ -59,7 +58,7 @@ module.exports = {
         background_color: `#663399`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `./static/gatsby-icon.png`, // This path is relative to the root of the site.
+        icon: `./static/logo.png`, // This path is relative to the root of the site.
       },
     },
     // `gatsby-plugin-offline`,
