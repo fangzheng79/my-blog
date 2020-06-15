@@ -7,6 +7,7 @@ module.exports = {
     social: {
       twitter: `francisjigo2`,
       github: `francisjigo2`,
+      facebook:``,
       linkedin: `fangzheng-ji-8a7519112`,
       email: `francisji@outlook.com`,
     },
