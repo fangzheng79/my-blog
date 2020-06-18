@@ -3,7 +3,7 @@ module.exports = {
     title: `Fangzheng Ji's Blog`,
     description: `I am computer science master student study in Germany. Always hungry to keep learning.`,
     author: `Fangzheng Ji`,
-    siteUrl: `https://github.com/wangonya/flexible-gatsby`,
+    siteUrl: `https://www.francisji.com`,
     social: {
       twitter: `francisjigo2`,
       github: `francisjigo2`,
